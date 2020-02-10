@@ -1,5 +1,3 @@
-console.log("Client Side JavaScript is Running");
-
 const weatherForm = document.querySelector("form");
 const search = document.querySelector("input");
 const message_1 = document.querySelector("#message_1");
